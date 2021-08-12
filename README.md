@@ -1,2 +1,2 @@
-# karishma_panduri
+# Diabetes Prediction
 Diabetes Prediction
